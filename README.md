@@ -16,6 +16,8 @@ Return type: JSON
 
 
 #Client Side
-Client side has been executed using Google Chart APIs for hirarchy chart and axios to call data from Server side application.
+Client side has been executed in ReactJS.
+Libraries used:
+Google Chart APIs for hirarchy chart and axios to call data from Server side application.
 
 
